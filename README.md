@@ -39,5 +39,3 @@ I'm currently working on improving my skills in **embedded systems** and **contr
 Feel free to explore my repositories, contribute to projects, or reach out if you want to collaborate. Let's build something amazing together!
 
 ---
-
-This template can be personalized with your details, project links, and additional information you'd like to share. Let me know if you need any adjustments!
