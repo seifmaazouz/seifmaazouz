@@ -43,7 +43,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
   <img src="https://img.shields.io/badge/PlatformIO-ff6600?style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO"/>
 </p>
-🛠️ **Altium Designer**
 
 #### 🛠️ Software & Development Tools:
 <p align="left">
