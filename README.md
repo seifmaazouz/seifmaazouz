@@ -1,59 +1,54 @@
-# 👋 Hello, I'm Seifeldin Ahmed Maazouz!
+<h1 align="center">Hi 👋, I'm Seifeldin Ahmed Maazouz</h1>  
+<h3 align="center">Computer Engineering Student | Robotics & AI Enthusiast</h3>  
 
-Welcome to my GitHub profile! I'm a dedicated **Computer Engineering Student** at Alexandria University, with a strong passion for **robotics**, **autonomous systems**, and **artificial intelligence**. I am always eager to learn and collaborate on innovative projects.
+### 🚀 About Me  
+- 🎓 **Undergraduate Student** at *Alexandria University, Faculty of Engineering*  
+- 🤖 **Former Trainee at M.I.A Robotics Team**  
+- 💡 Passionate about **Embedded Systems, AI, and Robotics**  
+- 🌱 Currently exploring **Machine Learning & Control Systems**  
+- 💻 Open to collaborations on **AI-driven and embedded projects**  
 
-## 🌟 About Me
+---
 
-- 🎓 **Student:** Undergraduate in Computer and Communication Engineering at Alexandria University.
-- 🎯 **Current GPA:** 3.82
-- 🤖 **Robotics Enthusiast:** Trainee at the M.I.A Robotics Team of Alexandria University.
-- 🏆 **Achievements:**
-  - Volunteer for Interact Ramleh Club
-  - Participant in Alexandria Marathon 2023
-  - Competitor in RoboCupJunior Egypt Rescue Line (2017, 2018)
-- 💻 **Technical Skills:**
-  - **Programming Languages:** C, Python, Java, HTML, CSS, JavaScript
-  - **Frameworks & Tools:** ROS, TensorFlow, Keras, MATLAB, Altium, Git/GitHub, Keras, TenserFlow
-  - **Deep Learning:** CNN, YOLO
-  - **Frontend Development:** HTML, CSS, JavaScript
-  - **Software Design:** OOP, Design Patterns, SOLID Principles
-  - **Video Editing & Graphic Design:** Vegas Pro, Adobe Premiere Pro, Photoshop, Canva
+### 🔗 Connect with Me  
+<p align="left">  
+<a href="https://linkedin.com/in/seifmaazouz" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seifmaazouz" height="30" width="40" /></a>  
+</p>  
 
-## 🛠 Projects
+---
 
-### 1. **Responsive Web Design Projects**
-   - Developed multiple responsive web design projects as part of the freeCodeCamp certification, showcasing skills in HTML, CSS, and JavaScript.
-   - [View Projects](https://freecodecamp.org/certification/seifmaazouz/responsive-web-design)
+### 🛠️ Skills & Technologies  
+<p align="left">  
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  
+<a href="https://www.ros.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" alt="ros" width="40" height="40"/> </a>  
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>  
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>  
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/> </a>  
+<a href="https://www.altium.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/altium/altium-original.svg" alt="altium" width="40" height="40"/> </a>  
+</p>  
 
-### 2. **AI Image Classification**
-   - Created an AI model for image classification using deep learning techniques, achieving efficient results in detecting and categorizing objects.
-   - [Watch the Project Video](https://m.youtube.com/watch?v=CBM9S9TWl6w)
+---
 
-### 3. **H-Bridge Circuit Design**
-   - Designed an H-bridge circuit in Altium for controlling the direction and speed of a 12V, 3A DC motor.
-   - [Repository Link](#)
+### 📂 Featured Projects  
+- **[H-Bridge Circuit Design](#)** – Designed an H-Bridge circuit in Altium for controlling a 12V DC motor.  
+- **[AI Image Classification](#)** – Developed a CNN-based model for object classification using TensorFlow.  
+- **[Autonomous Navigation System](#)** – Implemented ROS-based navigation for a differential robot.  
 
-## 📚 Education & Certifications
+---
 
-- **Bachelor’s in Computer and Communication Engineering**
-  - **Institution:** Faculty of Engineering, Alexandria University
-  - **Expected Graduation Date:** June 2027
-  - **Relevant Courses:** Programming II, OOP, Data Structures, Digital Logic Design, Discrete Mathematics
-- **Certifications:**
-  - Siemens Embedded System Essentials
-  - FreeCodeCamp Responsive Web Design
-  - WE AI – Artificial Intelligence Course
-  - CS50P Cambridge Python
+### 📫 Get in Touch  
+- **Email:** es-seifeldin.ahmed2027@alexu.edu.eg  
+- **GitHub:** [github.com/seifmaazouz](https://github.com/seifmaazouz)  
 
-## 🌱 Current Focus
-
-- Exploring **embedded systems**, **control systems**, and **machine learning** applications in robotics.
-- Expanding knowledge in AI frameworks.
-
-## 📫 How to Reach Me
-
-- **Email:** es-seifeldin.ahmed2027@alexu.edu.eg
-- **LinkedIn:** [linkedin.com/in/seifmaazouz](https://linkedin.com/in/seifmaazouz)
-- **GitHub:** [github.com/seifmaazouz](https://github.com/seifmaazouz)
-
-Feel free to explore my repositories, contribute to projects, or connect with me for collaborations. Let's build the future together!
+🚀 Let's innovate and build together!
